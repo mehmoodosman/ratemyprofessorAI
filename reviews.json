@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith is very knowledgeable and makes the subject easy to understand."
+      },
+      {
+        "professor": "Prof. Emily Brown",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Brown is thorough but can be a bit fast-paced."
+      },
+      {
+        "professor": "Dr. Alan Green",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Green is okay, but his lectures can be dry."
+      },
+      {
+        "professor": "Prof. Laura White",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Prof. White explains concepts well, but her tests are tough."
+      },
+      {
+        "professor": "Dr. Robert Black",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Black is amazing! His passion for biology is contagious."
+      },
+      {
+        "professor": "Prof. Linda Grey",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Prof. Grey is insightful but sometimes expects too much."
+      },
+      {
+        "professor": "Dr. William Blue",
+        "subject": "History",
+        "stars": 3,
+        "review": "Dr. Blue knows his material, but his lectures are monotone."
+      },
+      {
+        "professor": "Prof. Rachel Gold",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Prof. Gold is brilliant! She makes economics exciting."
+      },
+      {
+        "professor": "Dr. Steven Red",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Dr. Red's classes are confusing and hard to follow."
+      },
+      {
+        "professor": "Prof. Megan Violet",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Prof. Violet is a great lecturer, but her grading is tough."
+      },
+      {
+        "professor": "Dr. James Orange",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Dr. Orange is engaging and makes complex topics understandable."
+      },
+      {
+        "professor": "Prof. Anna Silver",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Prof. Silver is good, but she assigns a lot of reading."
+      },
+      {
+        "professor": "Dr. Mark Brown",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Dr. Brown's lectures are informative, but his assignments are tough."
+      },
+      {
+        "professor": "Prof. Jessica Pink",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Pink is passionate and makes art history fascinating."
+      },
+      {
+        "professor": "Dr. George Purple",
+        "subject": "Astronomy",
+        "stars": 4,
+        "review": "Dr. Purple's classes are interesting, but his exams are difficult."
+      },
+      {
+        "professor": "Prof. Sarah Yellow",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Prof. Yellow is a great instructor but can be strict with deadlines."
+      },
+      {
+        "professor": "Dr. Brian White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. White is knowledgeable, but his teaching style is not engaging."
+      },
+      {
+        "professor": "Prof. Olivia Black",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Prof. Black is amazing! She makes anthropology come to life."
+      },
+      {
+        "professor": "Dr. David Green",
+        "subject": "Law",
+        "stars": 2,
+        "review": "Dr. Green is tough and expects a lot from students."
+      },
+      {
+        "professor": "Prof. Ella Brown",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. Brown is incredibly talented and makes learning music theory fun."
+      }
+    ]
+  }
+  
