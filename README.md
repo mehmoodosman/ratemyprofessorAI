@@ -1,37 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rate My Professor AI Assistant
 
-## Getting Started
+![Rate My Professor AI Assistant](https://img.shields.io/badge/Rate%20My%20Professor-AI%20Assistant-blue)
 
-First, run the development server:
+The **Rate My Professor AI Assistant** is a powerful chatbot built with Next.js, OpenAI, and Pinecone that helps users find detailed information about professors based on various metrics. The assistant is capable of understanding natural language queries, searching through large datasets, and providing meaningful responses formatted with markdown.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js Framework:** Server-side rendering and routing for seamless performance and SEO benefits.
+- **OpenAI Integration:** Utilizes OpenAI's API to generate intelligent, context-aware responses to user queries.
+- **Pinecone Integration:** Implements Pinecone for vector-based search, allowing the assistant to quickly retrieve relevant information from a large dataset.
+- **Markdown Support:** Responses are formatted with markdown, enhancing the readability of the output.
+- **Responsive Design:** The interface is optimized for both mobile and desktop use.
 
-## Learn More
+## Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js:** A React framework for building server-rendered applications.
+- **React:** A JavaScript library for building user interfaces.
+- **Material-UI:** A popular React UI framework for building responsive and visually appealing interfaces.
+- **OpenAI API:** Provides the AI capabilities to understand and respond to user queries.
+- **Pinecone:** A vector database for high-speed and scalable similarity search.
+- **React-Markdown:** A React component to render markdown content.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Check out the live demo of the Rate My Professor AI Assistant [here](https://ratemyprofessor-ai-kappa.vercel.app/).
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# ratemyprofessorAI
