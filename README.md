@@ -1,4 +1,4 @@
-# Rate My Professor AI Assistant
+# AI RAG Rate my professor
 
 ![Rate My Professor AI Assistant](https://img.shields.io/badge/Rate%20My%20Professor-AI%20Assistant-blue)
 
